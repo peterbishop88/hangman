@@ -1,0 +1,154 @@
+DEBUG - Program start
+DEBUG - Starting new HTTPS connection (1): api.wordnik.com:443
+DEBUG - https://api.wordnik.com:443 "GET /v4/words.json/randomWord?api_key=d1468251dcc15bd72245101c1fc07fae5c3747257092d3230 HTTP/1.1" 200 None
+DEBUG - Program start
+DEBUG - Starting new HTTPS connection (1): api.wordnik.com:443
+DEBUG - https://api.wordnik.com:443 "GET /v4/words.json/randomWord?api_key=d1468251dcc15bd72245101c1fc07fae5c3747257092d3230 HTTP/1.1" 200 None
+DEBUG - The word selected was: facultatively
+DEBUG - Program start
+DEBUG - Starting new HTTPS connection (1): api.wordnik.com:443
+DEBUG - https://api.wordnik.com:443 "GET /v4/words.json/randomWord?api_key=d1468251dcc15bd72245101c1fc07fae5c3747257092d3230 HTTP/1.1" 200 None
+DEBUG - The word selected was: upvotes
+DEBUG - Getting ready:  _  _  _  _  _  _  _ 
+DEBUG - User guessed: d
+DEBUG - d had not been guessed. This counts as a guess.
+DEBUG - d is not in the word.
+DEBUG - User guessed: a
+DEBUG - a had not been guessed. This counts as a guess.
+DEBUG - a is not in the word.
+DEBUG - User guessed: e
+DEBUG - e had not been guessed. This counts as a guess.
+DEBUG -  _  _  _  _  _  _  _  is the word before replacing the good guess.
+DEBUG -  _  _  _  _  _ e _  is the word after replacing the good guess.
+DEBUG - User guessed: u
+DEBUG - u had not been guessed. This counts as a guess.
+DEBUG -  _  _  _  _  _ e _  is the word before replacing the good guess.
+DEBUG - u _  _  _  _ e _  is the word after replacing the good guess.
+DEBUG - User guessed: p
+DEBUG - p had not been guessed. This counts as a guess.
+DEBUG - u _  _  _  _ e _  is the word before replacing the good guess.
+DEBUG - up _  _  _ e _  is the word after replacing the good guess.
+DEBUG - User guessed: d
+DEBUG - d had already been guessed. This does not count as a guess.
+DEBUG - User guessed: q
+DEBUG - q had not been guessed. This counts as a guess.
+DEBUG - q is not in the word.
+DEBUG - User guessed: w
+DEBUG - w had not been guessed. This counts as a guess.
+DEBUG - w is not in the word.
+DEBUG - User guessed: e
+DEBUG - e had already been guessed. This does not count as a guess.
+DEBUG - User guessed: r
+DEBUG - r had not been guessed. This counts as a guess.
+DEBUG - r is not in the word.
+DEBUG - Program start
+DEBUG - Starting new HTTPS connection (1): api.wordnik.com:443
+DEBUG - https://api.wordnik.com:443 "GET /v4/words.json/randomWord?api_key=d1468251dcc15bd72245101c1fc07fae5c3747257092d3230 HTTP/1.1" 200 None
+DEBUG - The word selected was: forms
+DEBUG - Getting ready:  _  _  _  _  _ 
+DEBUG - User guessed: f
+DEBUG - f had not been guessed. This counts as a guess.
+DEBUG - f is in the word. (GOOD GUESS)
+DEBUG -  _  _  _  _  _  is the word before replacing the good guess.
+DEBUG - f _  _  _  _  is the word after replacing the good guess.
+DEBUG - User guessed: o
+DEBUG - o had not been guessed. This counts as a guess.
+DEBUG - o is in the word. (GOOD GUESS)
+DEBUG - f _  _  _  _  is the word before replacing the good guess.
+DEBUG - fo _  _  _  is the word after replacing the good guess.
+DEBUG - User guessed: rm
+DEBUG - rm had not been guessed. This counts as a guess.
+DEBUG - rm is in the word. (GOOD GUESS)
+DEBUG - User guessed: m
+DEBUG - m had not been guessed. This counts as a guess.
+DEBUG - m is in the word. (GOOD GUESS)
+DEBUG - fo _  _  _  is the word before replacing the good guess.
+DEBUG - fo _ m _  is the word after replacing the good guess.
+DEBUG - User guessed: s
+DEBUG - s had not been guessed. This counts as a guess.
+DEBUG - s is in the word. (GOOD GUESS)
+DEBUG - fo _ m _  is the word before replacing the good guess.
+DEBUG - fo _ ms is the word after replacing the good guess.
+DEBUG - User guessed: r
+DEBUG - r had not been guessed. This counts as a guess.
+DEBUG - r is in the word. (GOOD GUESS)
+DEBUG - fo _ ms is the word before replacing the good guess.
+DEBUG - forms is the word after replacing the good guess.
+DEBUG - Program start
+DEBUG - Starting new HTTPS connection (1): api.wordnik.com:443
+DEBUG - https://api.wordnik.com:443 "GET /v4/words.json/randomWord?api_key=d1468251dcc15bd72245101c1fc07fae5c3747257092d3230 HTTP/1.1" 200 None
+DEBUG - The word selected was: maluses
+DEBUG - Getting ready:  _  _  _  _  _  _  _ 
+DEBUG - User guessed: a
+DEBUG - a had not been guessed. This counts as a guess.
+DEBUG - a is in the word. (GOOD GUESS)
+DEBUG -  _  _  _  _  _  _  _  is the word before replacing the good guess.
+DEBUG -  _ a _  _  _  _  _  is the word after replacing the good guess.
+DEBUG - User guessed: l
+DEBUG - l had not been guessed. This counts as a guess.
+DEBUG - l is in the word. (GOOD GUESS)
+DEBUG -  _ a _  _  _  _  _  is the word before replacing the good guess.
+DEBUG -  _ al _  _  _  _  is the word after replacing the good guess.
+DEBUG - User guessed: u
+DEBUG - u had not been guessed. This counts as a guess.
+DEBUG - u is in the word. (GOOD GUESS)
+DEBUG -  _ al _  _  _  _  is the word before replacing the good guess.
+DEBUG -  _ alu _  _  _  is the word after replacing the good guess.
+DEBUG - Program start ========================================================================
+DEBUG - Starting new HTTPS connection (1): api.wordnik.com:443
+DEBUG - https://api.wordnik.com:443 "GET /v4/words.json/randomWord?api_key=d1468251dcc15bd72245101c1fc07fae5c3747257092d3230 HTTP/1.1" 200 None
+DEBUG - The word selected was: rough-backed
+DEBUG - Getting ready:  _  _  _  _  _  _  _  _  _  _  _  _ 
+DEBUG - User guessed: r
+DEBUG - r had not been guessed. This counts as a guess.
+DEBUG - r is in the word. (GOOD GUESS)
+DEBUG -  _  _  _  _  _  _  _  _  _  _  _  _  is the word before replacing the good guess.
+DEBUG - r _  _  _  _  _  _  _  _  _  _  _  is the word after replacing the good guess.
+DEBUG - Program start ========================================================================
+DEBUG - Starting new HTTPS connection (1): api.wordnik.com:443
+DEBUG - https://api.wordnik.com:443 "GET /v4/words.json/randomWord?api_key=d1468251dcc15bd72245101c1fc07fae5c3747257092d3230 HTTP/1.1" 200 None
+DEBUG - The word selected was: rampish
+DEBUG - Getting ready:  _  _  _  _  _  _  _ 
+DEBUG - User guessed: r
+DEBUG - r had not been guessed. This counts as a guess.
+DEBUG - r is in the word. (GOOD GUESS)
+DEBUG -  _  _  _  _  _  _  _  is the word before replacing the good guess.
+DEBUG - r _  _  _  _  _  _  is the word after replacing the good guess.
+DEBUG - User guessed: m
+DEBUG - m had not been guessed. This counts as a guess.
+DEBUG - m is in the word. (GOOD GUESS)
+DEBUG - r _  _  _  _  _  _  is the word before replacing the good guess.
+DEBUG - r _ m _  _  _  _  is the word after replacing the good guess.
+DEBUG - User guessed: a
+DEBUG - a had not been guessed. This counts as a guess.
+DEBUG - a is in the word. (GOOD GUESS)
+DEBUG - r _ m _  _  _  _  is the word before replacing the good guess.
+DEBUG - ram _  _  _  _  is the word after replacing the good guess.
+DEBUG - User guessed: m
+DEBUG - m had already been guessed. This does not count as a guess.
+DEBUG - User guessed: p
+DEBUG - p had not been guessed. This counts as a guess.
+DEBUG - p is in the word. (GOOD GUESS)
+DEBUG - ram _  _  _  _  is the word before replacing the good guess.
+DEBUG - ramp _  _  _  is the word after replacing the good guess.
+DEBUG - User guessed: i
+DEBUG - i had not been guessed. This counts as a guess.
+DEBUG - i is in the word. (GOOD GUESS)
+DEBUG - ramp _  _  _  is the word before replacing the good guess.
+DEBUG - rampi _  _  is the word after replacing the good guess.
+DEBUG - User guessed: w
+DEBUG - w had not been guessed. This counts as a guess.
+DEBUG - w is not in the word. (BAD GUESS)
+DEBUG - User guessed: s
+DEBUG - s had not been guessed. This counts as a guess.
+DEBUG - s is in the word. (GOOD GUESS)
+DEBUG - rampi _  _  is the word before replacing the good guess.
+DEBUG - rampis _  is the word after replacing the good guess.
+DEBUG - User guessed: h
+DEBUG - h had not been guessed. This counts as a guess.
+DEBUG - h is in the word. (GOOD GUESS)
+DEBUG - rampis _  is the word before replacing the good guess.
+DEBUG - rampish is the word after replacing the good guess.
+DEBUG - User guessed: 
+DEBUG -  had not been guessed. This counts as a guess.
+DEBUG -  is in the word. (GOOD GUESS)
